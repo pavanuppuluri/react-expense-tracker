@@ -25,6 +25,5 @@ React **event handling**
 
 **JavaScript**
 
-Stay tuned for more updates.
 
 Happy Coding!!!
