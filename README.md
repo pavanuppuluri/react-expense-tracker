@@ -13,12 +13,12 @@ Step 4 Run npm start
 It should run the react application at http://localhost:3000
 
 Some of the concepts I used in this application are -
-**React functional components
-React props
-React state
-React event handling
-Styling
-JavaScript**
+React **functional components**
+React **props**
+React **state**
+React **event handling**
+**Styling**
+**JavaScript**
 
 Stay tuned for more updates.
 
